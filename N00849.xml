@@ -116,8 +116,9 @@
    <text xml:lang="eng">
       <body>
          <div type="poem">
-            <pb facs="tcp:001023_0000_0FAEE90B2ADD0D90"/>
-            <pb facs="tcp:001023_0001_0FAEE90C351320B0" rendition="simple:additions"/>
+            <pb facs="unknown:001023_0000_0FAEE90B2ADD0D90"/>
+            <pb facs="unknown:001023_0001_0FAEE90C351320B0"
+                rendition="simple:additions"/>
             <head>
                <date>WEDNESDAY January 1. 1701.</date>
 A little before Break-a-day at <hi>Boſton</hi> of Maſſachuſets.</head>
